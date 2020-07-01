@@ -26,12 +26,12 @@ In the first lecture, we will cover 2D object recognition from images. We will f
 In the second lecture, we will cover video understanding.
 
 * [LECTURE2.md](LECTURE2.md): Reading material and the video lectures
-* [LAB2.md](LAB2.md): Lab session and short report assignment __(deadline: Sunday, May 3)__
-* [TEST2.md](TEST2.md): Test for lecture 2 __(deadline: Thursday, April 30)__
+* [LAB2.md](LAB2.md): Lab session and short report assignment __(Deadline: Sunday, May 3)__
+* [TEST2.md](TEST2.md): Test for lecture 2 __(Deadline: Thursday, April 30)__
 
 ## Lecture 3: 3D Object Understanding
 
-In the third lecture, we will cover 3D object understanding.
+In the third lecture, we will cover 3D object understanding. 
 
 * [LECTURE3.md](LECTURE3.md): Reading material and the video lectures
 * [LAB3.md](LAB3.md): Lab session and short report assignment __(deadline: Sunday, May 3)__
